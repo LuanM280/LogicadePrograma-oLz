@@ -1,0 +1,5 @@
+console.log("\n Mochi Yuki, PI-TU-CA! I love you <3 \n")
+console.log("Mochi Yuki, PÉ PRETO! <3 \n")
+console.log("Estou aprendendo a programar\n")
+console.log(123456789)
+console.log("MochiiYuki não sei oque escrever, então deixer pra você escoler\n")
